@@ -1,0 +1,10 @@
+{
+    "font_path": "C:\\Windows\\Fonts\\simhei.ttf",
+    "logo_path": "logo.png",
+    "text": "创想三维3D打印",
+    "text_frame_start": 10,
+    "text_frame_end": 100,
+    "text_color": [255, 255, 255],
+    "text_font_size": 50,
+    "text_thickness": 2
+}
